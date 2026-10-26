@@ -13,3 +13,6 @@ Adım5. toplam yaz
 Adım6. Bitir
 ```
 <img width="1150" height="646" alt="k_12150339_whatsappimage20250912at09 48 27" src="https://github.com/user-attachments/assets/f63ed6c9-2800-4174-9f30-67976107a8fc" />
+
+
+![Açıklama]( k_12150339_whatsappimage20250912at09.48.27.jpg)
